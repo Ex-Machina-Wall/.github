@@ -1,7 +1,5 @@
-## Hi there 👋
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=7g1l6ScJv8I&t
-" target="_blank"><img src="http://img.youtube.com/vi/7g1l6ScJv8I&t/0.jpg" 
-alt="Watch the Build Video" width="240" height="180" border="10" /></a>
+## Watch the Build Video! 👋
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=7g1l6ScJv8I" target="_blank"><img src="http://img.youtube.com/vi/7g1l6ScJv8I/0.jpg" alt="Watch the Build Video" border="10" /></a>
 
 <!--
 
