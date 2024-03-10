@@ -1,5 +1,9 @@
-## Watch the Build Video! 👋
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=7g1l6ScJv8I" target="_blank"><img src="http://img.youtube.com/vi/7g1l6ScJv8I/0.jpg" alt="Watch the Build Video" border="10" /></a>
+# Welcome
+My name is Trevor O'Leary. I spent ~1 year building this Ex Machina Wall clone in my dining room. It was... a lot of work. 
+
+Check out this build video!
+
+[![Watch the video](https://img.youtube.com/vi/7g1l6ScJv8I/0.jpg)](https://www.youtube.com/watch?v=7g1l6ScJv8I)
 
 <!--
 
